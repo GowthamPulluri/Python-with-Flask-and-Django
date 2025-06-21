@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #fff;
+}
+
+.container {
+  max-width: 300px;
+  margin: auto;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background-color: #ff3e57;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.link, a {
+  color: #ff3e57;
+  text-decoration: none;
+}
+
+.social-icons img {
+  width: 30px;
+  margin: 5px;
+}
+
+.pagination-dots .dot {
+  height: 8px;
+  width: 8px;
+  margin: 2px;
+  background-color: #ccc;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.pagination-dots .dot.active {
+  background-color: #ff3e57;
+}
+
+.password-container {
+         position: relative;
+     }
+
+
+p {
+    font-size: small;
+}

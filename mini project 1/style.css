@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(233, 223, 209);
+}
+
+.container {
+  max-width: 300px;
+  margin: auto;
+  display: block;
+  border-radius: 6px;
+  padding: 20px;
+  border: 1px solid #000000;
+  background-color: rgb(104, 252, 252);
+}
+input {
+  display: block;
+  width: 80%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+    display:block;
+    width: 100px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 6px;
+}
